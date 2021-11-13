@@ -1,6 +1,6 @@
 
 import './App.css';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route,PrivateRoute } from 'react-router-dom';
 import Header from './Componets/Header/Header';
 import Home from './Componets/Home/Home';
 import Services from './Componets/Services/Services';
@@ -8,6 +8,7 @@ import Contact from './Componets/Contact/Contact';
 import NotFound from './Componets/NotFound/NotFound';
 import About from './Componets/About/About';
 import Footer from './Componets/Footer/Footer';
+import Details from './Componets/Details/Details';
 
 
 function App() {
@@ -38,6 +39,11 @@ function App() {
             <Contact></Contact>
 
           </Route>
+          <Route exact path="/details/:id">
+            <Details></Details>
+
+          </Route>
+            
           <Route path="*">
             <NotFound></NotFound>
 

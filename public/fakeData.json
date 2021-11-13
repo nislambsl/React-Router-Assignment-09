@@ -14,7 +14,7 @@
     "instructor": "Khalid Farhan",
     "language": "Bangla",
     "price": 10000,
-    "id": 1001,
+    "id": 1002,
     "img": "https://www.seracourse.com/wp-content/uploads/2021/06/Learn-Digital-Marketing.jpg"
   },
   {
@@ -23,7 +23,7 @@
     "instructor": "Faruk Khan",
     "language": "Bangla",
     "price": 10000,
-    "id": 1001,
+    "id": 1003,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA-vduRL-jdkXXBt6brjzgJFEhBU19tev4UA&usqp=CAU"
   },
   {
@@ -32,7 +32,7 @@
     "instructor": "Masuk Sarkar Batista",
     "language": "Bangla",
     "price": 7500,
-    "id": 1001,
+    "id": 1004,
     "img": "https://i.ytimg.com/vi/wNt-wyAKwgw/maxresdefault.jpg"
   },
   {
@@ -41,7 +41,7 @@
     "instructor": "Anisul Islam",
     "language": "Bangla",
     "price":0,
-    "id": 1001,
+    "id": 1005,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGPJZUTqM62D-gHW_4nc62xenTMc7eAA4srQ&usqp=CAU"
   },
   {
@@ -50,7 +50,7 @@
     "instructor": "SUmit Saha",
     "language": "Bangla",
     "price": 0,
-    "id": 1001,
+    "id": 1006,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPlajGZ7D7TL76QfqWTz5s_hcWSDF5MBGpA&usqp=CAU"
   },
   {
@@ -59,7 +59,7 @@
     "instructor": "Chamak Biswas",
     "language": "Bangla",
     "price": 5000,
-    "id": 1001,
+    "id": 1007,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSieMmoyiBoFBTojatnHtKmmF49tBLsi3wDUXPCjkdxzF1DxvEa5clu7HnP2TtQqN-o01Y&usqp=CAU"}
   
 ]

@@ -8,19 +8,19 @@
     {
       "name": "Learn Digital Marketing with Khalid Farhan",     
       "instructor": "Khalid Farhan",
-       "id": 1001,
+       "id": 1002,
       "img": "https://www.seracourse.com/wp-content/uploads/2021/06/Learn-Digital-Marketing.jpg"
     },
     {
       "name": "E-commerce SEO",     
       "instructor": "Faruk Khan",      
-      "id": 1001,
+      "id": 1003,
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA-vduRL-jdkXXBt6brjzgJFEhBU19tev4UA&usqp=CAU"
     },
     
     {
         "name": "C++",       
         "instructor": "Anisul Islam",        
-        "id": 1001,
+        "id": 1004,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGPJZUTqM62D-gHW_4nc62xenTMc7eAA4srQ&usqp=CAU"}
   ]

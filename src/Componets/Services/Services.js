@@ -20,7 +20,7 @@ useEffect(()=>{
            <div className="gy-2 row">
            {
                 services.map(service => <ServicesContent
-                    
+                key={service.id}    
                 service={service}>
 
                 </ServicesContent>)

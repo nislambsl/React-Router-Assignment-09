@@ -22,6 +22,7 @@ const Home = () => {
           <div className="row person-container">
           {
                 services.map(service => <HomeContent
+                  key={service.id}
                   service={service}>
 
                 </HomeContent>)
@@ -30,7 +31,9 @@ const Home = () => {
             }
           </div>
 
-          <div className="card-container">BTN</div>
+          <div className="card-container">
+            <button className="btn btn-success">Buy Now</button>
+          </div>
 
       </div>
        

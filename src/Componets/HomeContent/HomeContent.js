@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Col, Row } from 'react-bootstrap';
+import { Card } from 'react-bootstrap';
 
 const HomeContent = (props) => {
    
@@ -15,14 +15,7 @@ const HomeContent = (props) => {
     
   </Card.Body>
 </Card>
-    //     <div className="col-md-6">
-    //         <img className="service-img" src={img} alt="" />
-    //     <h4>Service Name : {name}</h4>
-    //     <h6>Instructor: {instructor}</h6>
-    //     <p>Language: {language}</p>
-    //     <p>Price: {price}</p>
-    //     <button className="btn btn-success">Book Now</button>
-    //  </div>
+   
     );
 };
 
