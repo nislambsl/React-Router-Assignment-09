@@ -1,0 +1,15 @@
+.header{
+    margin-bottom: 30px;
+}
+.header li{
+    list-style: none;
+    display:inline; 
+    padding: 15px;
+    
+    }
+    .header a{
+     
+        text-decoration: none;  
+        color: white;
+        
+    }

@@ -1,0 +1,65 @@
+ [
+  {
+    "name": "Complete Web Development with Jhankar Mahbub",
+    "duration": "Three month",
+    "instructor": "Jhankar Mahbub",
+    "language": "Bangla",
+    "price": 5500,
+    "id": 1001,
+    "img": "https://web.programming-hero.com/thumbnail.png"
+  },
+  {
+    "name": "Learn Digital Marketing with Khalid Farhan",
+    "duration": "Three month",
+    "instructor": "Khalid Farhan",
+    "language": "Bangla",
+    "price": 10000,
+    "id": 1001,
+    "img": "https://www.seracourse.com/wp-content/uploads/2021/06/Learn-Digital-Marketing.jpg"
+  },
+  {
+    "name": "E-commerce SEO",
+    "duration": "Three month",
+    "instructor": "Faruk Khan",
+    "language": "Bangla",
+    "price": 10000,
+    "id": 1001,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA-vduRL-jdkXXBt6brjzgJFEhBU19tev4UA&usqp=CAU"
+  },
+  {
+    "name": "MBS Academy Digital Marketing",
+    "duration": "Three month",
+    "instructor": "Masuk Sarkar Batista",
+    "language": "Bangla",
+    "price": 7500,
+    "id": 1001,
+    "img": "https://i.ytimg.com/vi/wNt-wyAKwgw/maxresdefault.jpg"
+  },
+  {
+    "name": "C++",
+    "duration": "Three month",
+    "instructor": "Anisul Islam",
+    "language": "Bangla",
+    "price":0,
+    "id": 1001,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGPJZUTqM62D-gHW_4nc62xenTMc7eAA4srQ&usqp=CAU"
+  },
+  {
+    "name": "JS Pro Tips",
+    "duration": "Seven Days",
+    "instructor": "SUmit Saha",
+    "language": "Bangla",
+    "price": 0,
+    "id": 1001,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPlajGZ7D7TL76QfqWTz5s_hcWSDF5MBGpA&usqp=CAU"
+  },
+  {
+    "name": "Advace StratagicData Driven Marketing",
+    "duration": "Three month",
+    "instructor": "Chamak Biswas",
+    "language": "Bangla",
+    "price": 5000,
+    "id": 1001,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSieMmoyiBoFBTojatnHtKmmF49tBLsi3wDUXPCjkdxzF1DxvEa5clu7HnP2TtQqN-o01Y&usqp=CAU"}
+  
+]
